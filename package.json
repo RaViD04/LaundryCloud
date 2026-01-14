@@ -4,11 +4,9 @@
   "private": true,
   "homepage": "https://RaViD04.github.io/LaundryCloud",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
